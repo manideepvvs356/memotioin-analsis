@@ -16,6 +16,6 @@ network to provide the output.
 
 
 
- This is project is developed by vvs manideep,sumanth pola and dattu burle
- this is done under the guidance of Dr.Vipul Mishra professor at bennett university.
+ This is project is developed by [vvs manideep],[sumanth pola] and [dattu burle]
+ this is done under the guidance of [Dr.Vipul Mishra] professor at bennett university.
 
