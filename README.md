@@ -10,7 +10,12 @@ Our main aim is to provide emotion for a given meme. So,
 here we are using multi-channel CNN model to capture the
 features of sentences, to capture the sequence of the sentences we are using Bi-directional LSTM and passing it through a dense neural
 network to provide the output.
+
+
 ![method architecture](https://github.com/manideepvvs356/memotioin-analysis/blob/master/cnn_bilstm.PNG)
+
+
+
  This is project is developed by vvs manideep,sumanth pola and dattu burle
  this is done under the guidance of Dr.Vipul Mishra professor at bennett university.
 
